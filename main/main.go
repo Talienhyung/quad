@@ -1,6 +1,6 @@
 package main
 
-import "piscine"
+import "quad"
 
 func main() {
 	piscine.QuadE(1, 1)
