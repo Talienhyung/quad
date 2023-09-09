@@ -1,4 +1,4 @@
-module piscine
+module quad
 
 go 1.21.0
 
